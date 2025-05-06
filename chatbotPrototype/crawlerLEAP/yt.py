@@ -4,7 +4,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import json
 
 # Replace these values as needed
-API_KEY = "AIzaSyBIKHx6j2-XFHLoPqkMSIBiAVybFlUPPXI"
+API_KEY = ""
 CHANNEL_ID = "UChCqE3MptBJlubiJMFxVnlw"
 
 # Optionally create a folder to hold individual JSON files

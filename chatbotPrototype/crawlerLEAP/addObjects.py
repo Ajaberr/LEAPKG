@@ -6,14 +6,14 @@ import time
 
 # Connect to your Weaviate Cloud instance
 client = weaviate.connect_to_weaviate_cloud(
-    cluster_url="https://8fzaavbvs9cmcmmhj3r9ag.c0.us-east1.gcp.weaviate.cloud",  # Replace with your Weaviate Cloud URL
-    auth_credentials=Auth.api_key("UO94NG8zO65WQ7TYe6RzjbKNIwepH4TvAMa1"),           # Replace with your Weaviate Cloud key
+    cluster_url="",  # Replace with your Weaviate Cloud URL
+    auth_credentials=Auth.api_key(""),           # Replace with your Weaviate Cloud key
 )
 
 # Configure integrations (Cohere in this case)
 integrations = [
     Integrations.cohere(
-        api_key="vaJnTfyc9YMXCBGen8l0ttVqt5O0RUrOIIaiIshg",
+        api_key="",
     ),
 ]
 client.integrations.configure(integrations)

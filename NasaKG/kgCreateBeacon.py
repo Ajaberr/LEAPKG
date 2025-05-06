@@ -15,9 +15,9 @@ import uuid
 ##############################
 #  CONFIG
 ##############################
-WEAVIATE_URL = "https://4fb4akb1sbslkqrsukp7gw.c0.us-west3.gcp.weaviate.cloud"
-WEAVIATE_API_KEY = "yXBHsRdc780XaPINTDtMkQSXOMeiCbx2NBEO"
-COHERE_API_KEY = "5D4GH4KbkFYP5JT9AFXRWgZXej7TOAxgG5xELkwF"  # optional: set if you want Cohere vectorization
+WEAVIATE_URL = ""
+WEAVIATE_API_KEY = ""
+COHERE_API_KEY = ""  # optional: set if you want Cohere vectorization
 DATA_FILE = "cmr_final_data_individual.json"
 
 # The nine NASAClimateKG “collections” (equivalent to classes in older versions)

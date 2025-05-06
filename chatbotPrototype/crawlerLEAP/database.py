@@ -7,8 +7,8 @@ from weaviate.classes.config import Configure
 
 
 client = weaviate.connect_to_weaviate_cloud(
-    cluster_url= "https://8fzaavbvs9cmcmmhj3r9ag.c0.us-east1.gcp.weaviate.cloud",                                    # Replace with your Weaviate Cloud URL
-    auth_credentials=Auth.api_key("UO94NG8zO65WQ7TYe6RzjbKNIwepH4TvAMa1"),             # Replace with your Weaviate Cloud key
+    cluster_url= "",                                    # Replace with your Weaviate Cloud URL
+    auth_credentials=Auth.api_key(""),             # Replace with your Weaviate Cloud key
 )
 
 print(client.is_ready())  # Should print: `True`

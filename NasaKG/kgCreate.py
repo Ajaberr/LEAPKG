@@ -5,13 +5,13 @@ import random
 
 # Connect to your Weaviate Cloud instance
 client = weaviate.connect_to_weaviate_cloud(
-    cluster_url="https://tmjfdmmqooffk4qzw7xvg.c0.us-west3.gcp.weaviate.cloud",
-    auth_credentials=Auth.api_key("tGYyK0V1n7gtVXRmdnMHLpeVZAsgkNXPiEyb"),
+    cluster_url="",
+    auth_credentials=Auth.api_key(""),
 )
 
 # Configure integrations (Cohere)
 integrations = [
-    Integrations.cohere(api_key="2seIrN61X7CaEpTIAUUaGRigluX4ZaWYTjPB1Fa9"),
+    Integrations.cohere(api_key=""),
 ]
 client.integrations.configure(integrations)
 
