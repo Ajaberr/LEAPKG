@@ -1,0 +1,475 @@
+{
+  "Dataset": [
+    {
+      "short_name": "latent-reserves-in-the-swiss-nfi",
+      "title": "'Latent reserves' within the Swiss NFI",
+      "links": [
+        {
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/browse#",
+          "hreflang": "en-US",
+          "href": "https://www.envidat.ch/envidat_thumbnail.png"
+        },
+        {
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+          "hreflang": "en-US",
+          "href": "https://www.envidat.ch/dataset/latent-reserves-in-the-swiss-nfi"
+        }
+      ]
+    },
+    {
+      "short_name": "ASAC_2201_HCL_0.5",
+      "title": "0.5 hour 1 M HCl extraction data for the Windmill Islands marine sediments",
+      "links": [
+        {
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+          "hreflang": "en-US",
+          "href": "http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1677"
+        },
+        {
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+          "hreflang": "en-US",
+          "href": "https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=2201"
+        },
+        {
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+          "hreflang": "en-US",
+          "href": "http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2201_HCL_0.5"
+        }
+      ]
+    },
+    {
+      "short_name": "urn:ogc:def:EOP:VITO:VGT_S10",
+      "title": "10 Days Synthesis of SPOT VEGETATION Images (VGT-S10)",
+      "links": [
+        {
+          "length": "0.0KB",
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+          "hreflang": "en-US",
+          "href": "https://fedeo-client.ceos.org?uid=urn:ogc:def:EOP:VITO:VGT_S10"
+        },
+        {
+          "length": "0.0KB",
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+          "hreflang": "en-US",
+          "href": "https://fedeo.ceos.org/collections/series/items/urn:ogc:def:EOP:VITO:VGT_S10?httpAccept=application/vnd.iso.19139-2%2Bxml"
+        },
+        {
+          "length": "0.0KB",
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/search#",
+          "hreflang": "en-US",
+          "href": "https://fedeo.ceos.org/collections/series/items/urn:ogc:def:EOP:VITO:VGT_S10/api"
+        }
+      ]
+    },
+    {
+      "short_name": "LGB_10m_traverse",
+      "title": "10 m firn temperature data: LGB traverses 1990-95",
+      "links": [
+        {
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/data#",
+          "hreflang": "en-US",
+          "href": "https://data.aad.gov.au/eds/1206/download"
+        },
+        {
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+          "hreflang": "en-US",
+          "href": "https://data.aad.gov.au/metadata/records/LGB_Del_traverse"
+        },
+        {
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+          "hreflang": "en-US",
+          "href": "https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=3"
+        },
+        {
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/metadata#",
+          "hreflang": "en-US",
+          "href": "https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=2216"
+        },
+        {
+          "rel": "http://esipfed.org/ns/fedsearch/1.1/documentation#",
+          "hreflang": "en-US",
+          "href": "http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=LGB_10m_traverse"
+        }
+      ]
+    }
+  ],
+  "DataCategory": [
+    {
+      "summary": "The files refer to the data used in Portier et al. \"\u2018Latent reserves\u2019: a hidden treasure in National Forest Inventories\" (2020) *Journal of Ecology*.           **'Latent reserves'** are defined as plots in National Forest Inventories (NFI) that have been free of human influence for >40 to >70 years. They can be used to investigate and acquire a deeper understanding of attributes and processes of near-natural forests using existing long-term data. To determine which NFI sample plots could be considered \u2018latent reserves\u2019, criteria were defined based on the information available in the Swiss NFI database:           * Shrub forests were excluded.  * Plots must have been free of any kind of management, including salvage logging or sanitary cuts, for a minimum amount of time. Thresholds of 40, 50, 60 and 70 years without intervention were tested.  * To ensure that species composition was not influenced by past management, plots where potential vegetation was classified as deciduous by Ellenberg & Kl\u00f6tzli (1972) had to have an observed proportion of deciduous trees matching the theoretical proportion expected in a natural deciduous forest, as defined by Kienast, Brzeziecki, & Wildi (1994).  * Plots had to originate from natural regeneration.   * Intensive livestock grazing must never have occurred on the plots.          The tables stored here were derived from the first, second and third campaigns of the Swiss NFI. The raw data from the Swiss NFI can be provided free of charge within the scope of a contractual agreement (http://www.lfi.ch/dienstleist/daten-en.php).    ****    The files 'Data figure 2' to 'Data figure 8' are publicly available and contain the data used to produce the figures published in the paper.     The files 'Plot-level data for characterisation of 'latent reserves' and 'Tree-level data for characterisation of 'latent reserves' contain all the data required to reproduce the section of the article concerning the characterisation of 'latent reserves' and the comparison to managed forests. The file 'Data for mortality analyses' contains the data required to reproduce the section of the article concerning tree mortality in 'latent reserves'. The access to these three files is restricted as they contain some raw data from the Swiss NFI, submitted to the Swiss law and only accessible upon contractual agreement."
+    },
+    {
+      "summary": "These results are for the 0.5 hour extraction of HCl.\n\nSee also the metadata records for the 4 hour extraction of HCl, and the time trial data for 1 M HCl extractions.\n\nA regional survey of potential contaminants in marine or estuarine sediments is often one of the first steps in a post-disturbance environmental impact assessment. Of the many different chemical extraction or digestion procedures that have been proposed to quantify metal contamination, partial acid extractions are probably the best overall compromise between selectivity, sensitivity, precision, cost and expediency.  The extent to which measured metal concentrations relate to the anthropogenic fraction that is bioavailable is contentious, but is one of the desired outcomes of an assessment or prediction of biological impact.  As part of a regional survey of metal contamination associated with Australia's past waste management activities in Antarctica, we wanted to identify an acid type and extraction protocol that would allow a reasonable definition of the anthropogenic bioavailable fraction for a large number of samples.  From a kinetic study of the 1 M HCl extraction of two certified Certified Reference Materials (MESS-2 and PACS-2) and two Antarctic marine sediments, we concluded that a 4 hour extraction time allows the equilibrium dissolution of relatively labile metal contaminants, but does not favour the extraction of natural geogenic metals.  In a regional survey of 88 marine samples from the Casey Station area of East Antarctica, the 4 h extraction procedure correlated best with biological data, and most clearly identified those sediments thought to be contaminated by runoff from abandoned waste disposal sites.  Most importantly the 4 hour extraction provided better definition of the low to moderately contaminated locations by picking up small differences in anthropogenic metal concentrations.  For the purposes of inter-regional comparison, we recommend a 4 hour 1 M HCl acid extraction as a standard method for assessing metal contamination in Antarctica.\n\nThe fields in this dataset are\n\nLocation\nSite\nReplicate\nAntimony\nArsenic\nCadmium\nChromium\nCopper\nIron\nLead\nManganese\nNickel\nSilver\nTin\nZinc"
+    },
+    {
+      "summary": "The VGT-S10 are near-global or continental, 10-daily composite images which are synthesised from the 'best available' observations registered in the course of every 'dekad' by the orbiting earth observation system SPOT-VEGETATION. The products provide data from all spectral bands (SWIR, NIR, RED, BLUE), the NDVI and auxiliary data on image acquisition parameters. The VEGETATION system allows operational and near real-time applications, at global, continental and regional scales, in very broad environmentally and socio-economically critical fields. The VEGETATION instrument is operational since April 1998, first with VGT1, from March 2003 onwards, with VGT2. More information is available on: https://docs.terrascope.be/#/DataProducts/SPOT-VGT/Level3/Level3"
+    },
+    {
+      "summary": "The Lambert Glacier Basin (LGB) series of five oversnow traverses were conducted from 1989-95. Ten metre depth (10 m) firn temperatures, as a proxy indicator of annual mean surface temperature at a site, were recorded approximately every 30 km along the 2014 km main traverse route from LGB00 (68.6543 S, 61.1201 E) near Mawson Station, to LGB72 (69.9209 S, 76.4933 E) near Davis Station.\n\n10 m depth firn temperatures were recorded manually in field notebooks and the data transferred to spreadsheet files (MS Excel).\n\nSummary data (30 km spatial resolution) can be obtained from CRC Research Note No.09 'Surface Mass Balance and Snow Surface Properties from the Lambert Glacier Basin Traverses 1990-94'.\n\nThis work was completed as part of ASAC projects 3 and 2216.\n\nSome of this data have been stored in a very old format.  The majority of files have been updated to current formats, but some files (kaleidograph files in particular) were not able to be modified due to a lack of appropriate software.  However, these files are simply figures, and can be regenerated from the raw data (also provided).\n\nThe fields in this dataset are:\n\nLatitutde\nLongitude\nHeight\nCane\nDistance\nElevation\nDensity\nMass Accumulation\nYear\nDelta Oxygen-18\nGrain Size\nIce Crusts\nDepth Hoar"
+    }
+  ],
+  "DataFormat": [
+    {
+      "original_format": "DIF10"
+    },
+    {
+      "original_format": "UMM_JSON"
+    },
+    {
+      "original_format": "DIF10"
+    },
+    {
+      "original_format": "DIF10"
+    }
+  ],
+  "LocationCategory": [
+    {
+      "category": "continent"
+    },
+    {
+      "category": "unclassified"
+    },
+    {
+      "category": "global"
+    },
+    {
+      "category": "country"
+    }
+  ],
+  "Location": [
+    {
+      "boxes": [
+        "45.81802 5.95587 47.80838 10.49203"
+      ],
+      "polygons": [
+        [
+          "45.81802 10.49203 47.80838 10.49203 47.80838 5.95587 45.81802 5.95587 45.81802 10.49203"
+        ]
+      ],
+      "points": [],
+      "place_names": [
+        "Italy",
+        "Austria",
+        "Switzerland",
+        "France",
+        "Germany",
+        "Liechtenstein",
+        "Europe"
+      ]
+    },
+    {
+      "boxes": [
+        "-66 110 -66 110"
+      ],
+      "polygons": [],
+      "points": [],
+      "place_names": []
+    },
+    {
+      "boxes": [
+        "-56 -180 75 180"
+      ],
+      "polygons": [],
+      "points": [],
+      "place_names": [
+        "Russia",
+        "Guyana",
+        "Saudi Arabia",
+        "Chad",
+        "S\u00e3o Tom\u00e9 and Principe",
+        "Czechia",
+        "Falkland Islands",
+        "Jordan",
+        "Libya",
+        "Baykonur Cosmodrome",
+        "Ecuador",
+        "Vatican",
+        "Lesotho",
+        "United States of America",
+        "Egypt",
+        "Antigua and Barbuda",
+        "Fiji",
+        "Turks and Caicos Islands",
+        "Kazakhstan",
+        "Brazilian Island",
+        "Ethiopia",
+        "Barbados",
+        "Lebanon",
+        "Suriname",
+        "Cyprus No Mans Area",
+        "Peru",
+        "Canada",
+        "Mozambique",
+        "French Southern and Antarctic Lands",
+        "China",
+        "Sint Maarten",
+        "Iceland",
+        "Mexico",
+        "Georgia",
+        "Northern Cyprus",
+        "Romania",
+        "American Samoa",
+        "Nicaragua",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Colombia",
+        "British Indian Ocean Territory",
+        "Thailand",
+        "Western Sahara",
+        "Cayman Islands",
+        "Coral Sea Islands",
+        "Nigeria",
+        "Norway",
+        "Montenegro",
+        "Somaliland",
+        "Togo",
+        "Zambia",
+        "Japan",
+        "Argentina",
+        "Seychelles",
+        "British Virgin Islands",
+        "Haiti",
+        "Bahrain",
+        "Andorra",
+        "Serranilla Bank",
+        "Paraguay",
+        "Ukraine",
+        "Netherlands",
+        "Mauritania",
+        "Saint Kitts and Nevis",
+        "Philippines",
+        "Gibraltar",
+        "United Arab Emirates",
+        "Maldives",
+        "Oman",
+        "Albania",
+        "Federated States of Micronesia",
+        "Jamaica",
+        "Grenada",
+        "Marshall Islands",
+        "Malaysia",
+        "San Marino",
+        "South Georgia and the Islands",
+        "Turkmenistan",
+        "Croatia",
+        "United Republic of Tanzania",
+        "Mali",
+        "Mongolia",
+        "Vanuatu",
+        "Guatemala",
+        "Eritrea",
+        "New Caledonia",
+        "North Korea",
+        "Portugal",
+        "Tajikistan",
+        "Austria",
+        "Ghana",
+        "Cura\u00e7ao",
+        "India",
+        "Burkina Faso",
+        "Poland",
+        "Sierra Leone",
+        "Siachen Glacier",
+        "Hong Kong S.A.R.",
+        "Montserrat",
+        "Niue",
+        "Democratic Republic of the Congo",
+        "Madagascar",
+        "Guernsey",
+        "Italy",
+        "Cook Islands",
+        "Ivory Coast",
+        "Dominican Republic",
+        "Slovakia",
+        "Finland",
+        "Iraq",
+        "Cyprus",
+        "Equatorial Guinea",
+        "Moldova",
+        "Taiwan",
+        "Gambia",
+        "Gabon",
+        "Wallis and Futuna",
+        "New Zealand",
+        "Qatar",
+        "Guinea-Bissau",
+        "Afghanistan",
+        "Mauritius",
+        "Ashmore and Cartier Islands",
+        "Puerto Rico",
+        "Djibouti",
+        "Northern Mariana Islands",
+        "Spratly Islands",
+        "Tonga",
+        "Guinea",
+        "Cabo Verde",
+        "Sri Lanka",
+        "Akrotiri Sovereign Base Area",
+        "South Sudan",
+        "Saint Helena",
+        "Dominica",
+        "Costa Rica",
+        "Malta",
+        "Belize",
+        "Pakistan",
+        "Heard Island and McDonald Islands",
+        "Lithuania",
+        "Uzbekistan",
+        "Spain",
+        "Monaco",
+        "Faroe Islands",
+        "Brazil",
+        "Papua New Guinea",
+        "United Kingdom",
+        "Bir Tawil",
+        "Clipperton Island",
+        "Turkey",
+        "Luxembourg",
+        "Liberia",
+        "Uganda",
+        "Greenland",
+        "Bajo Nuevo Bank (Petrel Is.)",
+        "Saint Pierre and Miquelon",
+        "Trinidad and Tobago",
+        "Denmark",
+        "Rwanda",
+        "Slovenia",
+        "Israel",
+        "Macao S.A.R",
+        "Bermuda",
+        "Hungary",
+        "Palestine",
+        "Brunei",
+        "Saint Vincent and the Grenadines",
+        "Algeria",
+        "Greece",
+        "Sweden",
+        "Azerbaijan",
+        "Isle of Man",
+        "Aruba",
+        "Nauru",
+        "Australia",
+        "Burundi",
+        "North Macedonia",
+        "Jersey",
+        "Kenya",
+        "Namibia",
+        "Tunisia",
+        "United States Virgin Islands",
+        "Niger",
+        "Guam",
+        "Bangladesh",
+        "Saint Barthelemy",
+        "United States Minor Outlying Islands",
+        "Somalia",
+        "Estonia",
+        "Panama",
+        "Bolivia",
+        "Malawi",
+        "The Bahamas",
+        "Laos",
+        "Benin",
+        "South Korea",
+        "Switzerland",
+        "Yemen",
+        "Syria",
+        "Dhekelia Sovereign Base Area",
+        "Senegal",
+        "East Timor",
+        "Singapore",
+        "Morocco",
+        "Saint Martin",
+        "Zimbabwe",
+        "Kyrgyzstan",
+        "Republic of Serbia",
+        "Sudan",
+        "Pitcairn Islands",
+        "Venezuela",
+        "Saint Lucia",
+        "Comoros",
+        "Tuvalu",
+        "Kosovo",
+        "Kiribati",
+        "Southern Patagonian Ice Field",
+        "Uruguay",
+        "Norfolk Island",
+        "Germany",
+        "Aland",
+        "Indonesia",
+        "Nepal",
+        "Scarborough Reef",
+        "Belgium",
+        "Bulgaria",
+        "Ireland",
+        "Honduras",
+        "Kuwait",
+        "Angola",
+        "Cameroon",
+        "Latvia",
+        "Myanmar",
+        "French Polynesia",
+        "Indian Ocean Territories",
+        "Armenia",
+        "Chile",
+        "Cuba",
+        "El Salvador",
+        "US Naval Base Guantanamo Bay",
+        "Belarus",
+        "South Africa",
+        "eSwatini",
+        "Solomon Islands",
+        "Palau",
+        "Vietnam",
+        "Bhutan",
+        "Anguilla",
+        "Central African Republic",
+        "Republic of the Congo",
+        "Samoa",
+        "Cambodia",
+        "France",
+        "Iran",
+        "Liechtenstein",
+        "Oceania",
+        "Seven seas (open ocean)",
+        "Africa",
+        "Asia",
+        "North America",
+        "South America",
+        "Europe"
+      ]
+    },
+    {
+      "boxes": [
+        "-77 54 -69 78"
+      ],
+      "polygons": [],
+      "points": [],
+      "place_names": [
+        "Antarctica",
+        "Antarctica"
+      ]
+    }
+  ],
+  "Station": [
+    {
+      "platforms": []
+    },
+    {
+      "platforms": [
+        "Not provided",
+        "LABORATORY",
+        "FIELD SURVEYS"
+      ]
+    },
+    {
+      "platforms": [
+        "SPOT-4",
+        "SPOT-5"
+      ]
+    },
+    {
+      "platforms": [
+        "FIELD SURVEYS"
+      ]
+    }
+  ]
+}
